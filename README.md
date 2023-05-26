@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 💻 I have experience in programming languages such as C++, Java, and Python.
 <br>
 🌱 I'm currently learning about Machine Learning and its applications.
-<h2>Project</h2>
+<h2>Projects</h2>
 <ul>
   <li><a href="">PCD project</a></li>
   <li><a href="https://github.com/montassar21/SummerProject">Ecommerce website</a></li>
