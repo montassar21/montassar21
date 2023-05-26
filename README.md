@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</br>
+</hr>
 <p>As a Computer Science student at ENSI, I am passionate about learning the latest technologies and developing my skills. I am eager to get involved in projects and gain real-world experience in the field of Computer Science. I am passionate about problem solving and take great pride in my work.</p>
 
