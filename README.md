@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>As a Computer Science student at ENSI, I am passionate about learning the latest technologies and developing my skills. I am eager to get involved in projects and gain real-world experience in the field of Computer Science. I am passionate about problem solving and take great pride in my work.</p>
+<p>I am passionate about learning the latest technologies and developing my skills. I am eager to get involved in projects and gain real-world experience in the field of Computer Science. I am passionate about problem solving and take great pride in my work.</p>
 <h2>About me</h2>
-🎓 I'm currently pursuing a degree in Computer Science from National school of computer science (ENSI).
+🎓 A degree in Computer Science from National school of computer science (ENSI).
 <br>
-🤖 My main area of interest are Web development and Artificial Intelligence specifically Machine Learning.
+🤖 Areas of Interest: Web Development & Software Integration.
 <br>
-💻 I have experience in programming languages such as C++, Java, and Python.
+💻 I have experience in programming languages such as C++, Java
 <br>
 🌱 I'm currently learning about Machine Learning and its applications.
 <h2>Projects</h2>
